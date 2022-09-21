@@ -12,3 +12,7 @@ A good Resume Should have good structure here you can find some real samples:
 ## How to optimise my CV?
 You can use these tools:
 https://resumeworded.com
+
+## Soft skills improvements
+
+## Hard skill improvements
