@@ -22,8 +22,28 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 
 ## 3- Things are important in Interviews?
 #### Soft skills
+Personal attributes that enable someone to interact effectively and harmoniously with other people.
+- Communication
+- Teamwork
+- Problem-solving
+- Time management
+- Critical thinking
+- Decision-making
+- Organizational
+- Stress management
+- ...
 
+#### Improve Soft skills
+-  08 common Interview question and answers - Job Interview Skills: https://www.youtube.com/watch?v=1mHjMNZZvFo
+-  Tell Me About Yourself - A Good Answer to This Interview Question: https://www.youtube.com/watch?v=kayOhGRcNt4
+-  Self introduction in interview || How to introduce yourself in interview: https://www.youtube.com/watch?v=r29CFLctWIY
+-  Interview Question: Tell Me About Yourself | Best Answer for Freshers & Experienced People: https://www.youtube.com/watch?v=EzGH3hZuJVk
 #### Hard skills
+Hard skills are objective, quantifiable skills gained through training, school, or work experiences. Hard skills are often usually something that can be taught or learned. If you a Software Engineer and you wirte code by Java, then Java is one of your hard skills. Examples of software engineer hard skills:
+- software development
+- object-oriented design (OOD)
+-software testing, debugging
+- computer programming and coding
 
 ## 4- Mock Interview
 Find a collegue or frriend and have a mock interview with her/him
