@@ -1,6 +1,11 @@
 # How to get a highly skilled job offer!?
-Here I share some tips about CV/Resume and Interviews to get a job offer easily 
+Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company, but how you should start? follow the below tips: 
 
+## The benefits of getting a job offer
+- You don't need any language certificate IELTS/TOEFL.
+- Usually you don't need to be educated
+- The company will give you a relocation package (flight tickets, one month rent, ...)
+- The company will help you to get visa faster and they do all the paperworks for you
 ## 1- CV/Resume:
 #### Make a standard ATS compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that read your CV/Resume and give the human resources some results. In many cases they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adapt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
