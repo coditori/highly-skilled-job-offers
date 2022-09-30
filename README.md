@@ -14,8 +14,21 @@ A good Resume Should have good structure here you can find some real samples:
 You can use these tools:
 https://resumeworded.com
 
-## 2- Interview
+## 2- How to find or apply for a job?
+#### Recruiters
+Make some connections with recruiters in the country you wanna move to.
+#### Apply online
+You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
 
-#### Soft skills improvements
+## 3- Things are important in Interviews?
+#### Soft skills
 
-#### Hard skill improvements
+#### Hard skills
+
+## 4- Mock Interview
+Find a collegue or frriend and have a mock interview with her/him
+## 5- The Interview itself
+Companies have different structure some will start by a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
+#### Introduction call
+#### Technical interview
+#### Final talk over contract and bonuses (relocation package and ...)
