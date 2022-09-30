@@ -7,6 +7,7 @@ What is ATS compatible? An applicant tracking system (ATS) is a software applica
 
 #### What Does a Good Resume Look Like?
 A good Resume Should have good structure here you can find some real samples:
+![CV structure](resume_careercup_markedup.gif)
 - Microsoft Work template: https://www.careercup.com/resume
 - Latex format: https://github.com/posquit0/Awesome-CV
 
