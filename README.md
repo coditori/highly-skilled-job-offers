@@ -1,4 +1,4 @@
-# highly skilled job offers Tips
+# How to get a highly skilled job offer!?
 Here I share some tips about CV/Resume and Interviews to get a job offer easily 
 
 ## 1- CV/Resume:
@@ -17,11 +17,14 @@ https://resumeworded.com
 
 ## 2- How to find or apply for a job?
 #### Recruiters
-Make some connections with recruiters in the country you wanna move to.
+Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to.
 #### Apply online
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
 
-## 3- Things are important in Interviews?
+## 3- Be aware of different time zones
+It's a common mistake you have an interview in another time zone and you miss the interview because of miscalculations. With https://calendly.com you can easily setup your calendar and ask companies or recruiters to find a free slot in your calendar.
+
+## 4- Things are important in Interviews?
 #### Soft skills
 Personal attributes that enable someone to interact effectively and harmoniously with other people.
 - Communication
@@ -46,9 +49,9 @@ Hard skills are objective, quantifiable skills gained through training, school, 
 -software testing, debugging
 - computer programming and coding
 
-## 4- Mock Interview
+## 5- Mock Interview
 Find a collegue or frriend and have a mock interview with her/him
-## 5- The Interview itself
+## 6- The Interview itself
 Companies have different structure some will start by a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
 #### Introduction call
 #### Technical interview
