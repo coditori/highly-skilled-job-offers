@@ -17,8 +17,8 @@ A good Resume Should have good structure here you can find some real samples:
 - Latex format: https://github.com/posquit0/Awesome-CV
 
 #### How to optimise my CV?
-You can use these tools:
-https://resumeworded.com
+Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
+- https://resumeworded.com
 
 ## 2- How to find or apply for a job?
 #### Recruiters
