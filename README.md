@@ -1,5 +1,5 @@
 # How to get a highly skilled job offer!?
-Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company, but how you should start? follow the below tips: 
+Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below tips: 
 
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
