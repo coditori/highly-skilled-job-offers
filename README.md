@@ -1,6 +1,9 @@
 # How to get a highly skilled job offer!?
 Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below tips: 
 
+## Contribution
+If you really found my repo helpful please give it a star, as it motivates me to update such kind of tips and help the community, if you have some coments or some improvements please feel free to send a pull request.
+
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
 - Usually you don't need to be educated
@@ -55,7 +58,7 @@ Hard skills are objective, quantifiable skills gained through training, school, 
 - computer programming and coding
 
 ## 5- Mock Interview
-Find a collegue or frriend and have a mock interview with her/him
+Find a collegue or freind and have a mock interview with her/him
 ## 6- The Interview itself
 Companies have different structure some will start by a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
 #### Introduction call
