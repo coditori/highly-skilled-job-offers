@@ -62,5 +62,21 @@ Find a colleague or friend and have a mock interview with her/him
 ## 6- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
 #### Introduction call
+Try to have a structure when you introduce yourself (introduction can be between 3-5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
+- About yourself: Start with your name/age and where are you living (30 secs)
+- About the current company: Company name, size, Industry, B2B? B2C?
+- About the team: Team size, Teamwork methodologies
+- About the latest project and technologies: Eg: We are building a payment application with Java11, Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ...
 #### Technical interview
+You may see this is like the previous one! YEAH! but now you give them a little bit more technical info:
+- About yourself: Start with your name/age and where are you living (30 secs)
+- About the current company: Company name, size, Industry, B2B? B2C?
+- About the team: Team size, Teamwork methodologies
+- About the latest project and technologies: Eg: We are building a payment application by Java11, Spring boot, TDD, and Oauth, we have 17 Microservices, a Kafka cluster with 10 nodes, Docker, AWS, Automated CI/CD, Sonar, ...
 #### Final talk over contract and bonuses (relocation package and ...)
+- How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
+- Ask them about the relocation package
+- Contract starting day (Can you start remotely!?)
+- Visa process
+- Company car
+- Number of salaries in a year (12 or 13), Tax, holiday allowance
