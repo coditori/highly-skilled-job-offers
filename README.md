@@ -4,6 +4,15 @@ Here I share some tips about CV/Resume and Interviews to get a job offer easily.
 ## Contribution
 If you found my repo helpful please give it a star, as it motivates me to update such kinds of tips and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
+## Table of content (click to open):
+0. [How to choose a country for living in?](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#0-how-to-choose-a-country-for-living-in)
+1. [CV/Resume](#CV/Resume)
+2. [How to find or apply for a job?](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#2--how-to-find-or-apply-for-a-job)
+3. [Be aware of different time zones](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#3--be-aware-of-different-time-zones)
+4. [Things to Remember in an Interview]()
+5. [Mock Interview](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#5--mock-interview)
+6. [The Interview](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#6--the-interview-itself)
+
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
 - Usually, you don't need to be educated
@@ -42,10 +51,10 @@ Make some connections (in Linkedin or other platforms) with recruiters in the co
 #### Apply online
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
 
-## 3- Be aware of different time zones
-It's a common mistake if you have an interview in another time zone and you miss the interview because of miscalculations. With https://calendly.com you can easily set up your calendar and ask companies or recruiters to find a free slot in your calendar.
+## 3- Schedule the interview
+It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
 
-## 4- Things are important in Interviews?
+## 4- Things to Remember in an Interview
 #### Soft skills
 Personal attributes that enable someone to interact effectively and harmoniously with other people.
 - Communication
