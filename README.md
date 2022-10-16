@@ -9,6 +9,19 @@ If you found my repo helpful please give it a star, as it motivates me to update
 - Usually, you don't need to be educated
 - The company will give you a relocation package (flight tickets, one month's rent, ...)
 - The company will help you to get a visa faster and they do all the paperwork for you
+
+## How to choose a country for living in?
+You can consider these items (which you can find more on google :)) You can give these items some weight and it depends on you.
+#### General items
+- [Passport Index](https://www.passportindex.org/byRank.php)
+- [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world)
+- [Economy Index](https://www.heritage.org/index/ranking)
+- The laws and cultural fit
+- [Living Cost](https://www.numbeo.com)
+- Tax
+### Specific items for your job
+- Job market  (number of opening job applications)
+- Average salary
 ## 1- CV/Resume:
 #### Make a standard ATS-compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that reads your CV/Resume and gives human resources some results. In many cases, they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adopt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
