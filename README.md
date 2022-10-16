@@ -5,13 +5,13 @@ Here I share some tips about CV/Resume and Interviews to get a job offer easily.
 If you found my repo helpful please give it a star, as it motivates me to update such kinds of tips and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
-0. [How to choose a country for living in?](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#0-how-to-choose-a-country-for-living-in)
-1. [CV/Resume](#CV/Resume)
-2. [How to find or apply for a job?](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#2--how-to-find-or-apply-for-a-job)
-3. [Be aware of different time zones](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#3--be-aware-of-different-time-zones)
-4. [Things to Remember in an Interview]()
-5. [Mock Interview](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#5--mock-interview)
-6. [The Interview](https://github.com/coditori/highly-skilled-job-offers/edit/main/README.md#6--the-interview-itself)
+0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
+1. [CV/Resume](#1--cvresume)
+2. [How to find or apply for a job?](#2--how-to-find-or-apply-for-a-job)
+3. [Be aware of different time zones](#3--schedule-the-interview)
+4. [Things to Remember in an Interview](#4--things-to-remember-in-an-interview)
+5. [Mock Interview](#5--mock-interview)
+6. [The Interview](#6--the-interview-itself)
 
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
