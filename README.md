@@ -10,7 +10,7 @@ If you found my repo helpful please give it a star, as it motivates me to update
 - The company will give you a relocation package (flight tickets, one month's rent, ...)
 - The company will help you to get a visa faster and they do all the paperwork for you
 
-## How to choose a country for living in?
+## 0- How to choose a country for living in?
 You can consider these items (which you can find more on google :)) You can give these items some weight and it depends on you.
 #### General items
 - [Passport Index](https://www.passportindex.org/byRank.php)
@@ -29,12 +29,12 @@ What is ATS compatible? An applicant tracking system (ATS) is a software applica
 #### What Does a Good Resume Look Like?
 A good Resume Should have a good structure here you can find some real samples:
 ![CV structure](resume_careercup_markedup.gif)
-- Microsoft Work template: https://www.careercup.com/resume
-- Latex format: https://github.com/posquit0/Awesome-CV
+- [Microsoft Work template](https://www.careercup.com/resume)
+- [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
 
 #### How to optimize my CV?
 Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
-- https://resumeworded.com
+- [Resumeworded](https://resumeworded.com) (It's free)
 
 ## 2- How to find or apply for a job?
 #### Recruiters
