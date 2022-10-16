@@ -1,7 +1,8 @@
 # How to get a highly skilled job offer!?
-Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below tips: 
+Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below tips:
+<p align="center"><img src="job_offer.jpg" /></p>
 
-## Contribution
+## Contribution ♡
 If you found my repo helpful please give it a star, as it motivates me to update such kinds of tips and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
@@ -37,7 +38,7 @@ What is ATS compatible? An applicant tracking system (ATS) is a software applica
 
 #### What Does a Good Resume Look Like?
 A good Resume Should have a good structure here you can find some real samples:
-![CV structure](resume_careercup_markedup.gif)
+<p align="center"><img src="resume_careercup_markedup.gif" /></p>
 - [Microsoft Work template](https://www.careercup.com/resume)
 - [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
 
