@@ -55,6 +55,34 @@ Remember recruiters will only check your CV for less than a minute so it should 
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to.
 #### Apply online
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
+# Code Tutorials, Examples, and Best Practices.
+These projects usually are a simple Enterprise combination of existing technologies. The following sample applications are provided:
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th align="center">Supported countries</th>
+<th align="center">Visa & Sponsorship option</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.iamexpat.nl/career/jobs-netherlands">iamexpat.nl</a></td>
+<td align="center">Netherlands</td>
+<td align="center"><ul><li>- [x] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://relocate.me/">relocate.me</a></td>
+<td align="center">Multiple countries</td>
+<td align="center"><ul><li>- [x] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/">Linkedin</a></td>
+<td align="center">Multiple countries</td>
+<td align="center"><ul><li>- [ ] </li></ul></td>
+</tr>
+</tbody>
+</table>
 
 ## 3- Schedule the interview
 It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
