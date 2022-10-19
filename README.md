@@ -10,10 +10,11 @@ If you found my repo helpful please give it a star, as it motivates me to update
 1. [CV/Resume](#1--cvresume)
 2. [How to find or apply for a job?](#2--how-to-find-or-apply-for-a-job)
 3. [Be aware of different time zones](#3--schedule-the-interview)
-4. [Things to Remember in an Interview](#4--things-to-remember-in-an-interview)
-5. [Mock Interview](#5--mock-interview)
-6. [The Interview](#6--the-interview-itself)
-7. [Interview Improvement process](#7--interview-improvement-process)
+4. [Skills](#4--skills)
+5. [Things to Remember before an Interview](#5--things-to-remember-before-an-interview)
+6. [Mock Interview](#6--mock-interview)
+7. [The Interview](#7--the-interview-itself)
+8. [Interview Improvement process](#8--interview-improvement-process)
 
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
@@ -56,8 +57,11 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 ## 3- Schedule the interview
 It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
 
-## 4- Things to Remember in an Interview
+## 4- Skills
 <p align="center"><img src="files/soft_vs_hard_skills.png" /></p>
+Let's go a little bit more on details.
+
+
 #### Soft skills
 Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV, like a team player in the CV. It'd be good to mention them under the hood in the CV bullet points.
 
@@ -73,20 +77,33 @@ Personal attributes that enable someone to interact effectively and harmoniously
 <p align="center"><img src="files/top_10_interview_questions.jpg" /></p>
 
 #### Improve Soft skills
--  08 common Interview questions and answers - Job Interview Skills: https://www.youtube.com/watch?v=1mHjMNZZvFo
--  Tell Me About Yourself - A Good Answer to This Interview Question: https://www.youtube.com/watch?v=kayOhGRcNt4
-- Self-introduction in interview || How to introduce yourself in an interview: https://www.youtube.com/watch?v=r29CFLctWIY
--  Interview Question: Tell Me About Yourself | Best Answer for Freshers & Experienced People: https://www.youtube.com/watch?v=EzGH3hZuJVk
+- [08 common Interview questions and answers - Job Interview Skills](https://www.youtube.com/watch?v=1mHjMNZZvFo)
+- [Tell Me About Yourself - A Good Answer to This Interview Question](https://www.youtube.com/watch?v=kayOhGRcNt4)
+- [Self-introduction in interview || How to introduce yourself in an interview](https://www.youtube.com/watch?v=r29CFLctWIY)
+- [Interview Question: Tell Me About Yourself | Best Answer for Freshers & Experienced People](https://www.youtube.com/watch?v=EzGH3hZuJVk)
 #### Hard skills
 Hard skills are objective, quantifiable skills gained through training, school, or work experiences. Hard skills are often usually something that can be taught or learned. If you are a Software Engineer and you write code in Java, then Java is one of your hard skills. Examples of software engineer hard skills:
-- software development
-- object-oriented design (OOD)
--software testing, debugging
-- computer programming and coding
+- Software development
+- Object-oriented design (OOD)
+- Software testing, debugging
+- Computer programming and coding
 
-## 5- Mock Interview
+## 5- Things to Remember before an Interview
+1. Dressing the Part
+2. Review the Questions The Interviewers Will Ask You
+3. Do Enough Research on the Company
+4. Be Respectful of the Interviewers
+5. Good Non-Verbal Behavior
+6. Be On Time to the Interview
+7. Know all the Credentials of the Company and the Job you're Applying For
+8. Bring Extra Resumes (If it's an on-site interview)
+9. Speak with Energy and Provide True Details
+10. Writing Thank You Letters Immediately After the Interview
+You can find the full list with details in [uiowa](https://careers.uiowa.edu/careerbuzz/201509/10-things-do-right-interview)
+
+## 6- Mock Interview
 Find a colleague or friend and have a mock interview with her/him
-## 6- The Interview itself
+## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
 #### Introduction call
 Try to have a structure when you introduce yourself (introduction can be between 3-5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
@@ -108,9 +125,12 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 - Company car
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
 
-## 7- Interview Improvement process
+## 8- Interview Improvement process
 <p align="center"><img src="files/continuous_improvement_process.png" /></p>
 We always need to improve ourselves, simply try to find your weaknesses and make a list of them, then try to improve them. As an example:
 - If your are not a good listener you can google this "How to be a good listener"
 - You have some lacks about muti-thread programming, just try to take a course or start a small project to improve yourself
-This is the process, and don't forget the compound effect is still there ^_^
+This is the process, and don't forget the compound effect is still there ^_^ After getting feedback you may back to CV or Mock Interview, no worries you just need to improve yourself.
+
+Good luck to you
+Ario
