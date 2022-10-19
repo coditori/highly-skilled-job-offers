@@ -13,6 +13,7 @@ If you found my repo helpful please give it a star, as it motivates me to update
 4. [Things to Remember in an Interview](#4--things-to-remember-in-an-interview)
 5. [Mock Interview](#5--mock-interview)
 6. [The Interview](#6--the-interview-itself)
+7. [Interview Improvement process](#)
 
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
@@ -103,3 +104,9 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 - Visa process
 - Company car
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
+
+#### Interview Improvement process
+We always need to improve ourselves, simply try to find your weaknesses and make a list of them, then try to improve them. As an example:
+- If your are not a good listener you can google this "How to be a good listener"
+- You have some lacks about muti-thread programming, just try to take a course or start a small project to improve yourself
+This is the process, and don't forget the compound effect is still there ^_^
