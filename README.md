@@ -1,6 +1,6 @@
 # How to get a highly skilled job offer!?
 Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below tips:
-<p align="center"><img src="job_offer.jpg" /></p>
+<p align="center"><img src="files/job_offer.jpg" /></p>
 
 ## Contribution ♡
 If you found my repo helpful please give it a star, as it motivates me to update such kinds of tips and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
@@ -13,7 +13,7 @@ If you found my repo helpful please give it a star, as it motivates me to update
 4. [Things to Remember in an Interview](#4--things-to-remember-in-an-interview)
 5. [Mock Interview](#5--mock-interview)
 6. [The Interview](#6--the-interview-itself)
-7. [Interview Improvement process](#7--interviewimprovement-process)
+7. [Interview Improvement process](#7--interview-improvement-process)
 
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL.
@@ -39,7 +39,7 @@ What is ATS compatible? An applicant tracking system (ATS) is a software applica
 
 #### What Does a Good Resume Look Like?
 A good Resume Should have a good structure here you can find some real samples:
-<p align="center"><img src="resume_careercup_markedup.gif" /></p>
+<p align="center"><img src="files/resume_careercup_markedup.gif" /></p>
 - [Microsoft Work template](https://www.careercup.com/resume)
 - [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
 
@@ -57,8 +57,10 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
 
 ## 4- Things to Remember in an Interview
+<p align="center"><img src="files/soft_vs_hard_skills.png" /></p>
 #### Soft skills
-Personal attributes that enable someone to interact effectively and harmoniously with other people.
+Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV, like a team player in the CV. It'd be good to mention them under the hood in the CV bullet points.
+
 - Communication
 - Teamwork
 - Problem-solving
@@ -68,6 +70,7 @@ Personal attributes that enable someone to interact effectively and harmoniously
 - Organizational
 - Stress management
 - ...
+<p align="center"><img src="files/top_10_interview_questions.jpg" /></p>
 
 #### Improve Soft skills
 -  08 common Interview questions and answers - Job Interview Skills: https://www.youtube.com/watch?v=1mHjMNZZvFo
@@ -106,6 +109,7 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
 
 ## 7- Interview Improvement process
+<p align="center"><img src="files/continuous_improvement_process.png" /></p>
 We always need to improve ourselves, simply try to find your weaknesses and make a list of them, then try to improve them. As an example:
 - If your are not a good listener you can google this "How to be a good listener"
 - You have some lacks about muti-thread programming, just try to take a course or start a small project to improve yourself
