@@ -1,9 +1,9 @@
 # How to get a highly skilled job offer!?
-Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below tips:
+Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below steps:
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
 ## Contribution ♡
-If you found my repo helpful please give it a star, as it motivates me to update such kinds of tips and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
+If you found my repo helpful please give it a star, as it motivates me to update such kinds of info and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
 0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
@@ -65,7 +65,7 @@ Let's go into a little bit more detail.
 
 
 #### Soft skills
-Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV, like a team player in the CV. It'd be good to mention them under the hood in the CV bullet points.
+Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV (like "team player"), but it'd be good to mention them under the hood in the CV bullet points.
 
 - Communication
 - Teamwork
