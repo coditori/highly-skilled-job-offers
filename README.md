@@ -55,8 +55,6 @@ Remember recruiters will only check your CV for less than a minute so it should 
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to.
 #### Apply online
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
-# Code Tutorials, Examples, and Best Practices.
-These projects usually are a simple Enterprise combination of existing technologies. The following sample applications are provided:
 <table>
 <thead>
 <tr>
@@ -83,6 +81,15 @@ These projects usually are a simple Enterprise combination of existing technolog
 </tr>
 </tbody>
 </table>
+
+#### How to find the companies can sponsor visa?
+In some countries, there is a list of all companies which have the license to sponsor ex-pat workers to meet their business goals.
+
+- [Netherlands](https://ind.nl/en/public-register-recognised-sponsors)
+- [UK](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+- [Sweden](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/903888/2020-07-27_Tier_2_5_Register_of_Sponsors.pdf)
+- Germany: Not found 404 :|
+- [Denmark](https://nyidanmark.dk/en-GB/Words%20and%20Concepts%20Front%20Page/SIRI/List%20certified%20companies)
 
 ## 3- Schedule the interview
 It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
@@ -154,21 +161,14 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 - Visa process
 - Company car
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
-
 ## 8- Interview Improvement process
 <p align="center"><img src="files/continuous_improvement_process.png" /></p>
 We always need to improve ourselves, simply try to find our weaknesses and make a list of them, then try to improve them. As an example:
 
-
 - If you are not a good listener you can google this "How to be a good listener"
 - You have some lacks in muti-thread programming, just try to take a course or start a small project to improve yourself
 
-
 This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to improve yourself.
-
-
-
-
 
 Good luck to you
 
