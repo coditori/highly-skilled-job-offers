@@ -33,7 +33,7 @@ You can consider these items (which you can find more on google :)) You can give
 - Tax
 ### Specific items for your job
 - Job market  (number of opening job applications)
-- Average salary
+- Average Salary
 ## 1- CV/Resume:
 #### Make a standard ATS-compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that reads your CV/Resume and gives human resources some results. In many cases, they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adopt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
@@ -41,6 +41,8 @@ What is ATS compatible? An applicant tracking system (ATS) is a software applica
 #### What Does a Good Resume Look Like?
 A good Resume Should have a good structure here you can find some real samples:
 <p align="center"><img src="files/resume_careercup_markedup.gif" /></p>
+
+
 - [Microsoft Work template](https://www.careercup.com/resume)
 - [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
 
@@ -59,7 +61,7 @@ It's a common mistake that you have an interview in another time zone and you mi
 
 ## 4- Skills
 <p align="center"><img src="files/soft_vs_hard_skills.png" /></p>
-Let's go a little bit more on details.
+Let's go into a little bit more detail.
 
 
 #### Soft skills
@@ -94,7 +96,7 @@ Hard skills are objective, quantifiable skills gained through training, school, 
 3. Do Enough Research on the Company
 4. Be Respectful of the Interviewers
 5. Good Non-Verbal Behavior
-6. Be On Time to the Interview
+6. Be On Time for the Interview
 7. Know all the Credentials of the Company and the Job you're Applying For
 8. Bring Extra Resumes (If it's an on-site interview)
 9. Speak with Energy and Provide True Details
@@ -127,10 +129,16 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 
 ## 8- Interview Improvement process
 <p align="center"><img src="files/continuous_improvement_process.png" /></p>
-We always need to improve ourselves, simply try to find your weaknesses and make a list of them, then try to improve them. As an example:
-- If your are not a good listener you can google this "How to be a good listener"
-- You have some lacks about muti-thread programming, just try to take a course or start a small project to improve yourself
-This is the process, and don't forget the compound effect is still there ^_^ After getting feedback you may back to CV or Mock Interview, no worries you just need to improve yourself.
+We always need to improve ourselves, simply try to find our weaknesses and make a list of them, then try to improve them. As an example:
+
+
+- If you are not a good listener you can google this "How to be a good listener"
+- You have some lacks in muti-thread programming, just try to take a course or start a small project to improve yourself
+
+
+This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to improve yourself.
+
+
 
 Good luck to you
 Ario
