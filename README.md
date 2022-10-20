@@ -34,6 +34,8 @@ You can consider these items (which you can find more on google :)) You can give
 ### Specific items for your job
 - Job market  (number of opening job applications)
 - Average Salary
+- Job Satisfaction
+You can see this [Glassdoor's top jobs](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) based on the above metrics.
 ## 1- CV/Resume:
 #### Make a standard ATS-compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that reads your CV/Resume and gives human resources some results. In many cases, they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adopt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
@@ -100,17 +102,7 @@ Let's go into a little bit more detail.
 
 
 #### Soft skills
-Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV (like "team player"), but it'd be good to mention them under the hood in the CV bullet points.
-
-- Communication
-- Teamwork
-- Problem-solving
-- Time management
-- Critical thinking
-- Decision-making
-- Organizational
-- Stress management
-- ...
+Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV (like "team player"), but it'd be good to mention them under the hood in the CV bullet points. Following you can find some youtube content that can help you in this particular area. This is also the list of soft-skill questions they will ask you through the interview: 
 <p align="center"><img src="files/top_10_interview_questions.jpg" /></p>
 
 #### Improve Soft skills
@@ -167,8 +159,12 @@ We always need to improve ourselves, simply try to find our weaknesses and make 
 
 - If you are not a good listener you can google this "How to be a good listener"
 - You have some lacks in muti-thread programming, just try to take a course or start a small project to improve yourself
+#### How To Identify Personal Weaknesses
+You can use online tools or just ask from the other people:
+- Google this "free MBTI test" if you are not an english native speaker it's better to use your own language tools. 
+- Use blog like: [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
 
-This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to improve yourself.
+This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
 
 Good luck to you
 
