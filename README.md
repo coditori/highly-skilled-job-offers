@@ -3,7 +3,7 @@ Here I share some tips about CV/Resume and Interviews to get a job offer easily.
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
 ## Contribution ♡
-If you found my repo helpful please give it a star, as it motivates me to update such kinds of info and help the community, if you have some comments or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
+If you found my repo helpful please give it a star 👍, don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, if you have some comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
 0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
@@ -17,7 +17,7 @@ If you found my repo helpful please give it a star, as it motivates me to update
 8. [Interview Improvement process](#8--interview-improvement-process)
 
 ## The benefits of getting a job offer
-- You don't need any language certificate IELTS/TOEFL.
+- You don't need any language certificate IELTS/TOEFL, but you at least need to have an intermediate or upper intermediate English level.
 - Usually, you don't need to be educated
 - The company will give you a relocation package (flight tickets, one month's rent, ...)
 - The company will help you to get a visa faster and they do all the paperwork for you
@@ -35,6 +35,7 @@ You can consider these items (which you can find more on google :)) You can give
 - Job market  (number of opening job applications)
 - Average Salary
 - Job Satisfaction
+
 You can see this [Glassdoor's top jobs](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) based on the above metrics.
 ## 1- CV/Resume:
 #### Make a standard ATS-compatible CV
@@ -84,7 +85,7 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 </tbody>
 </table>
 
-#### How to find the companies can sponsor visa?
+#### How to find companies that can sponsor a visa?
 In some countries, there is a list of all companies which have the license to sponsor ex-pat workers to meet their business goals.
 
 - [Netherlands](https://ind.nl/en/public-register-recognised-sponsors)
@@ -134,24 +135,30 @@ You can find the full list with details in [uiowa](https://careers.uiowa.edu/car
 Find a colleague or friend and have a mock interview with her/him
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
+#### Most important questions they are gonna ask:
+- Why we should hire you? tricky question yeah? it's better to answer how your experience can help them (if you were in the same industry or project or tech challenges as they are)
 #### Introduction call
 Try to have a structure when you introduce yourself (introduction can be between 3-5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
-- About yourself: Start with your name/age and where are you living (30 secs)
-- About the current company: Company name, size, Industry, B2B? B2C?
-- About the team: Team size, Teamwork methodologies
-- About the latest project and technologies: Eg: We are building a payment application with Java11, Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ...
+- About yourself: Start with your name/age and where are you living, why you moved to their country?, and your hobbies (1-2 mins)
+- The current company: Company name, size, Industry, B2B? B2C? (30 secs)
+- The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (1 min)
+- The latest project and technologies: Eg: We are building a payment application with Java11, Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (30 secs)
+- Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
 #### Technical interview
-You may see this is like the previous one! YEAH! but now you give them a little bit more technical info:
-- About yourself: Start with your name/age and where are you living (30 secs)
-- About the current company: Company name, size, Industry, B2B? B2C?
-- About the team: Team size, Teamwork methodologies
-- About the latest project and technologies: Eg: We are building a payment application by Java11, Spring boot, TDD, and Oauth, we have 17 Microservices, a Kafka cluster with 10 nodes, Docker, AWS, Automated CI/CD, Sonar, ...
+You may see this is like the previous one! YEAH! but now you give them a little bit more technical info, why? Because they will go in-depth about that later and ask some questions based on this intro:
+- About yourself: Start with your name/age and where are you living, why you moved to their country?, and your hobbies (1-2 mins)
+- The current company: Company name, size, Industry, B2B? B2C? (30 secs)
+- The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (1 min)
+- The latest project and technologies: Eg: We are building a payment application by Java11, Spring boot, TDD, and Oauth, we have 17 Microservices, a Kafka cluster with 10 nodes, Docker, AWS, Automated CI/CD, Sonar, ... (1-2 mins)
+- Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
+
 #### Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
 - Ask them about the relocation package
 - Contract starting day (Can you start remotely!?)
 - Visa process
 - Company car
+- How many days a week do you need to go to the office?
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
 ## 8- Interview Improvement process
 <p align="center"><img src="files/continuous_improvement_process.png" /></p>
@@ -160,11 +167,11 @@ We always need to improve ourselves, simply try to find our weaknesses and make 
 - If you are not a good listener you can google this "How to be a good listener"
 - You have some lacks in muti-thread programming, just try to take a course or start a small project to improve yourself
 #### How To Identify Personal Weaknesses
-You can use online tools or just ask from the other people:
-- Google this "free MBTI test" if you are not an english native speaker it's better to use your own language tools. 
-- Use blog like: [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
+You can use online tools or just ask other people:
+- Google this "free MBTI test" if you are not an English native speaker it's better to use your mother language tools. 
+- Use blogs like [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
 
-This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
+This is the process, and don't forget the compound effect is still their ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
 
 Good luck to you
 
