@@ -33,7 +33,7 @@ You can consider these items (which you can find more on google :)) You can give
 - [Living Cost](https://www.numbeo.com)
 - The laws and cultural fit
 - Tax
-### Specific items for your job
+#### Specific items for your job
 - Job market  (number of opening job applications)
 - Average Salary
 - Job Satisfaction
@@ -56,7 +56,7 @@ Remember recruiters will only check your CV for less than a minute so it should 
 - [Resumeworded](https://resumeworded.com) (It's free)
 
 #### Don't use a general CV for all Job Applications!
-Try to match your skills with the Jop required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
+Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
 
 ## 2- How to find or apply for a job?
 #### Recruiters
