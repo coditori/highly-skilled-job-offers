@@ -27,9 +27,10 @@ You can consider these items (which you can find more on google :)) You can give
 #### General items
 - [Passport Index](https://www.passportindex.org/byRank.php)
 - [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world)
+- [GDP Per Capita Index](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)
 - [Economy Index](https://www.heritage.org/index/ranking)
-- The laws and cultural fit
 - [Living Cost](https://www.numbeo.com)
+- The laws and cultural fit
 - Tax
 ### Specific items for your job
 - Job market  (number of opening job applications)
@@ -52,6 +53,9 @@ A good Resume Should have a good structure here you can find some real samples:
 #### How to optimize my CV?
 Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
 - [Resumeworded](https://resumeworded.com) (It's free)
+
+#### Don't use a general CV for all Job Applications!
+Try to match your skills with the Jop required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
 
 ## 2- How to find or apply for a job?
 #### Recruiters
