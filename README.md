@@ -40,10 +40,10 @@ You can consider these items (which you can find more on google :)) You can give
 
 You can see this [Glassdoor's top jobs](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) based on the above metrics.
 ## 1- CV/Resume:
-#### Make a standard ATS-compatible CV
+#### 1-1 Make a standard ATS-compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that reads your CV/Resume and gives human resources some results. In many cases, they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adopt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
 
-#### What Does a Good Resume Look Like?
+#### 1-2 What Does a Good Resume Look Like?
 A good Resume Should have a good structure here you can find some real samples:
 <p align="center"><img src="files/resume_careercup_markedup.gif" /></p>
 
@@ -51,17 +51,17 @@ A good Resume Should have a good structure here you can find some real samples:
 - [Microsoft Work template](https://www.careercup.com/resume)
 - [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
 
-#### How to optimize my CV?
+#### 1-3 How to optimize my CV?
 Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
 - [Resumeworded](https://resumeworded.com) (It's free)
 
-#### Don't use a general CV for all Job Applications!
+#### 1-4 Don't use a general CV for all Job Applications!
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
 
 ## 2- How to find or apply for a relocation job?
-#### Recruiters
+#### 2-1 Recruiters
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to.
-#### Apply online
+#### 2-2 Apply online through job platforms
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
 <table>
 <thead>
@@ -90,10 +90,10 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 </tbody>
 </table>
 
-#### Companies that provide Visa Sponsorships
+#### 2-3 Companies that provide Visa Sponsorships (Apply by the company website)
 You can also check this repository: [List of companies offer Visa Sponsorships](https://github.com/shubheksha/companies-sponsoring-visas)
 
-#### How to find companies that can sponsor a visa?
+#### 2-4 How to find companies that can sponsor a visa?
 In some countries, there is a list of all companies which have the license to sponsor ex-pat workers to meet their business goals.
 
 - [Netherlands](https://ind.nl/en/public-register-recognised-sponsors)
@@ -102,7 +102,7 @@ In some countries, there is a list of all companies which have the license to sp
 - Germany: Not found 404 :|
 - [Denmark](https://nyidanmark.dk/en-GB/Words%20and%20Concepts%20Front%20Page/SIRI/List%20certified%20companies)
 
-#### Remote jobs
+#### 2-5 Remote jobs
 First you need to know you can not work remotely from some countries and a lot of companies prefer to work with frelancers who have an official bank account in the their country or have a registered company under your name. To find these jobs you can find this repo helpful [remote jobs](https://github.com/remoteintech/remote-jobs).
 
 ## 3- Schedule the interview
@@ -113,16 +113,16 @@ It's a common mistake that you have an interview in another time zone and you mi
 Let's go into a little bit more detail.
 
 
-#### Soft skills
+#### 4-1 Soft skills
 Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV (like "team player"), but it'd be good to mention them under the hood in the CV bullet points. Following you can find some youtube content that can help you in this particular area. This is also the list of soft-skill questions they will ask you through the interview: 
 <p align="center"><img src="files/top_10_interview_questions.jpg" /></p>
 
-#### Improve Soft skills
+##### Improve Soft skills
 - [08 common Interview questions and answers - Job Interview Skills](https://www.youtube.com/watch?v=1mHjMNZZvFo)
 - [Tell Me About Yourself - A Good Answer to This Interview Question](https://www.youtube.com/watch?v=kayOhGRcNt4)
 - [Self-introduction in interview || How to introduce yourself in an interview](https://www.youtube.com/watch?v=r29CFLctWIY)
 - [Interview Question: Tell Me About Yourself | Best Answer for Freshers & Experienced People](https://www.youtube.com/watch?v=EzGH3hZuJVk)
-#### Hard skills
+#### 4-2 Hard skills
 Hard skills are objective, quantifiable skills gained through training, school, or work experiences. Hard skills are often usually something that can be taught or learned. If you are a Software Engineer and you write code in Java, then Java is one of your hard skills. Examples of software engineer hard skills:
 - Software development
 - Object-oriented design (OOD)
