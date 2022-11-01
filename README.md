@@ -140,22 +140,21 @@ Hard skills are objective, quantifiable skills gained through training, school, 
 8. Bring Extra Resumes (If it's an on-site interview)
 9. Speak with Energy and Provide True Details
 10. Writing Thank You Letters Immediately After the Interview
+
 You can find the full list with details in [uiowa](https://careers.uiowa.edu/careerbuzz/201509/10-things-do-right-interview)
 
 ## 6- Mock Interview
 Find a colleague or friend and have a mock interview with her/him
 ## 7- The Interview itself
-Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first but there are usually three parts.
-#### Most important questions they are gonna ask:
-- Why we should hire you? tricky question yeah? it's better to answer how your experience can help them (if you were in the same industry or project or tech challenges as they are)
-#### Introduction call
+Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
+#### 7-1 Introduction call
 Try to have a structure when you introduce yourself (introduction can be between 3-5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
 - About yourself: Start with your name/age and where are you living, why you moved to their country?, and your hobbies (1-2 mins)
 - The current company: Company name, size, Industry, B2B? B2C? (30 secs)
 - The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (1 min)
 - The latest project and technologies: Eg: We are building a payment application with Java11, Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (30 secs)
 - Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
-#### Technical interview
+#### 7-2 Technical interview
 You may see this is like the previous one! YEAH! but now you give them a little bit more technical info, why? Because they will go in-depth about that later and ask some questions based on this intro:
 - About yourself: Start with your name/age and where are you living, why you moved to their country?, and your hobbies (1-2 mins)
 - The current company: Company name, size, Industry, B2B? B2C? (30 secs)
@@ -163,7 +162,7 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 - The latest project and technologies: Eg: We are building a payment application by Java11, Spring boot, TDD, and Oauth, we have 17 Microservices, a Kafka cluster with 10 nodes, Docker, AWS, Automated CI/CD, Sonar, ... (1-2 mins)
 - Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
 
-#### Final talk over contract and bonuses (relocation package and ...)
+#### 7-3 Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
 - Ask them about the relocation package
 - Contract starting day (Can you start remotely!?)
@@ -177,7 +176,7 @@ We always need to improve ourselves, simply try to find our weaknesses and make 
 
 - If you are not a good listener you can google this "How to be a good listener"
 - You have some lacks in muti-thread programming, just try to take a course or start a small project to improve yourself
-#### How To Identify Personal Weaknesses
+#### How To Identify Personal Weaknesses?
 You can use online tools or just ask other people:
 - Google this "free MBTI test" if you are not an English native speaker it's better to use your mother language tools. 
 - Use blogs like [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
