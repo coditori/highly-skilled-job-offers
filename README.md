@@ -58,7 +58,7 @@ Remember recruiters will only check your CV for less than a minute so it should 
 #### Don't use a general CV for all Job Applications!
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
 
-## 2- How to find or apply for a job?
+## 2- How to find or apply for a relocation job?
 #### Recruiters
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to.
 #### Apply online
@@ -90,6 +90,9 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 </tbody>
 </table>
 
+#### Companies that provide Visa Sponsorships
+You can also check this repository: [List of companies offer Visa Sponsorships](https://github.com/shubheksha/companies-sponsoring-visas)
+
 #### How to find companies that can sponsor a visa?
 In some countries, there is a list of all companies which have the license to sponsor ex-pat workers to meet their business goals.
 
@@ -98,6 +101,9 @@ In some countries, there is a list of all companies which have the license to sp
 - [Sweden](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/903888/2020-07-27_Tier_2_5_Register_of_Sponsors.pdf)
 - Germany: Not found 404 :|
 - [Denmark](https://nyidanmark.dk/en-GB/Words%20and%20Concepts%20Front%20Page/SIRI/List%20certified%20companies)
+
+#### Remote jobs
+First you need to know you can not work remotely from some countries and a lot of companies prefer to work with frelancers who have an official bank account in the their country or have a registered company under your name. To find these jobs you can find this repo helpful [remote jobs](https://github.com/remoteintech/remote-jobs).
 
 ## 3- Schedule the interview
 It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
