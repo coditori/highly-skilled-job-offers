@@ -8,7 +8,7 @@ If you found my repo helpful please give it a star üëç, don't just clone it ü§
 ## Table of content (click to open):
 0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
 1. [CV/Resume](#1--cvresume)
-2. [How to find or apply for a job?](#2--how-to-find-or-apply-for-a-job)
+2. [How to find or apply for a job?](#2--how-to-find-or-apply-for-a-relocation-job)
 3. [Be aware of different time zones](#3--schedule-the-interview)
 4. [Skills](#4--skills)
 5. [Things to Remember before an Interview](#5--things-to-remember-before-an-interview)
