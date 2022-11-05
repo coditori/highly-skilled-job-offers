@@ -27,6 +27,7 @@ You can consider these items (which you can find more on google :)) You can give
 #### General items
 - [Passport Index](https://www.passportindex.org/byRank.php) - Higher is better
 - [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) - Higher is better
+- [English Proficiency Index](https://worldpopulationreview.com/country-rankings/english-proficiency-by-country) - Higher is better
 - [GDP Per Capita Index](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country) - Higher is better
 - [Economy Index](https://www.heritage.org/index/ranking) - Higher is better
 - [Racial Discrimination Index](https://www.indexmundi.com/surveys/results/8) - Lower is better
@@ -60,7 +61,11 @@ Try to match your skills with the job's required skills, to do so you can use a 
 
 ## 2- How to find or apply for a relocation job?
 #### 2-1 Recruiters
-Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to.
+Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to. You can also do these:
+- Change your Linkedin location to the country you wanna move
+- Enable open to work and select positions and countries
+
+You also check [How to Use LinkedIn to Get a Job](https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search) or [How to Use LinkedIn When You Are Looking For a Job](https://www.linkedin.com/pulse/how-use-linkedin-when-you-looking-job-part-1-your-profile-piedmont/)
 #### 2-2 Apply online through job platforms
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
 <table>
