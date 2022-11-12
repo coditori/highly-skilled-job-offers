@@ -154,19 +154,18 @@ Find a colleague or friend and have a mock interview with her/him
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
 #### 7-1 Introduction call
-Try to have a structure when you introduce yourself (introduction can be between 3-5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
-- About yourself: Start with your name/age and where are you living, why you moved to their country?, and your hobbies (1-2 mins)
-- The current company: Company name, size, Industry, B2B? B2C? (30 secs)
-- The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (1 min)
-- The latest project and technologies: Eg: We are building a payment application with Java11, Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (30 secs)
-- Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
+Try to have a structure when you introduce yourself (introduction can be around 5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
+- About yourself: Companies can see your professional life on your CV and here you can give a good overview of yourself! Start with your name/age and where are you living right now, why you moved to their country if you relocated before (why you like it), and your hobbies (2 mins)
+- The first and last companies: Eg: I started my first job at ... now working at ... for N number of years, Try to mention company size, Industry, B2B or B2C (30 seconds)
+- The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (30 seconds)
+- The latest project and technologies: Most important part in the interview is to try to mention your latest challenge (don't need to mention here how you solved the issue because it's probably a long story, so just mention the challenge later on they will ask about this challenge in details and you can give them more information) Eg: We are building a payment application with Java11 and we had a challenge to manage state over Microservices we also used  Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (1 min)
 #### 7-2 Technical interview
 Use the same structure as above to introduce yourself and remember these when they ask a question:
 - Don't jump into solving problem
 - Try to understand what the question is
 - Go ahead and ask equations about Scale (how many users?), Performance (transactions per second), API
 - Have a conversation between you and the interviewer (like when you do it with a team)
-##### Preparation
+##### 7-2-1 Preparation
 - [Exponent channel (on youtube)](https://www.youtube.com/c/ExponentTV/videos)
 - [Coding Interview Preparation on youtube](https://www.youtube.com/results?search_query=coding+interview+preparation)
 #### 7-3 Final talk over contract and bonuses (relocation package and ...)
