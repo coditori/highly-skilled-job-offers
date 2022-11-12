@@ -3,7 +3,7 @@ Here I share some tips about CV/Resume and Interviews to get a job offer easily.
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
 ## Contribution ♡
-If you found my repo helpful please give it a star 👍, don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, if you have some comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
+If you found my repo helpful please give it a star 👍, and don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, if you have some comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
 0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
@@ -14,7 +14,8 @@ If you found my repo helpful please give it a star 👍, don't just clone it �
 5. [Things to Remember before an Interview](#5--things-to-remember-before-an-interview)
 6. [Mock Interview](#6--mock-interview)
 7. [The Interview](#7--the-interview-itself)
-8. [Interview Improvement process](#8--interview-improvement-process)
+8. [After the Interview](#8--after-the-interview)
+9. [Interview Improvement process](#9--interview-improvement-process)
 
 ## The benefits of getting a job offer
 - You don't need any language certificate IELTS/TOEFL, but you at least need to have an intermediate or upper intermediate English level.
@@ -60,10 +61,10 @@ Remember recruiters will only check your CV for less than a minute so it should 
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
 
 ## 2- How to find or apply for a relocation job?
-#### 2-1 Recruiters
+#### 2-1 Recruiter
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to. You can also do these:
 - Change your Linkedin location to the country you wanna move
-- Enable open to work and select positions and countries
+- Enable open-to-work and select positions and countries
 
 You also check [How to Use LinkedIn to Get a Job](https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search) or [How to Use LinkedIn When You Are Looking For a Job](https://www.linkedin.com/pulse/how-use-linkedin-when-you-looking-job-part-1-your-profile-piedmont/)
 #### 2-2 Apply online through job platforms
@@ -108,7 +109,7 @@ In some countries, there is a list of all companies which have the license to sp
 - [Denmark](https://nyidanmark.dk/en-GB/Words%20and%20Concepts%20Front%20Page/SIRI/List%20certified%20companies)
 
 #### 2-5 Remote jobs
-First you need to know you can not work remotely from some countries and a lot of companies prefer to work with frelancers who have an official bank account in the their country or have a registered company under your name. To find these jobs you can find this repo helpful [remote jobs](https://github.com/remoteintech/remote-jobs).
+First, you need to know you can not work remotely from some countries and a lot of companies prefer to work with freelancers who have an official bank account in their country or have a registered company under your name. To find these jobs you can find this repo helpful [remote jobs](https://github.com/remoteintech/remote-jobs).
 
 ## 3- Schedule the interview
 It's a common mistake that you have an interview in another time zone and you miss the interview because of miscalculations. With [Calendly](https://calendly.com) you can easily set up your calendar and ask people to find a free slot in your calendar.
@@ -118,7 +119,7 @@ It's a common mistake that you have an interview in another time zone and you mi
 Let's go into a little bit more detail.
 
 
-#### 4-1 Soft skills
+#### 4-1 Soft skill
 Personal attributes that enable someone to interact effectively and harmoniously with other people. It's not a good idea to put soft skills directly on a CV (like "team player"), but it'd be good to mention them under the hood in the CV bullet points. Following you can find some youtube content that can help you in this particular area. This is also the list of soft-skill questions they will ask you through the interview: 
 <p align="center"><img src="files/top_10_interview_questions.jpg" /></p>
 
@@ -160,13 +161,14 @@ Try to have a structure when you introduce yourself (introduction can be between
 - The latest project and technologies: Eg: We are building a payment application with Java11, Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (30 secs)
 - Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
 #### 7-2 Technical interview
-You may see this is like the previous one! YEAH! but now you give them a little bit more technical info, why? Because they will go in-depth about that later and ask some questions based on this intro:
-- About yourself: Start with your name/age and where are you living, why you moved to their country?, and your hobbies (1-2 mins)
-- The current company: Company name, size, Industry, B2B? B2C? (30 secs)
-- The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (1 min)
-- The latest project and technologies: Eg: We are building a payment application by Java11, Spring boot, TDD, and Oauth, we have 17 Microservices, a Kafka cluster with 10 nodes, Docker, AWS, Automated CI/CD, Sonar, ... (1-2 mins)
-- Latest achievement: What Is Your Greatest Accomplishment? (I could help the team to have more than 10 stage deployments before production) (1 min)
-
+Use the same structure as above to introduce yourself and remember these when they ask a question:
+- Don't jump into solving problem
+- Try to understand what the question is
+- Go ahead and ask equations about Scale (how many users?), Performance (transactions per second), API
+- Have a conversation between you and the interviewer (like when you do it with a team)
+##### Preparation
+- [Exponent channel (on youtube)](https://www.youtube.com/c/ExponentTV/videos)
+- [Coding Interview Preparation on youtube](https://www.youtube.com/results?search_query=coding+interview+preparation)
 #### 7-3 Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
 - Ask them about the relocation package
@@ -175,7 +177,10 @@ You may see this is like the previous one! YEAH! but now you give them a little 
 - Company car
 - How many days a week do you need to go to the office?
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
-## 8- Interview Improvement process
+## 8- After the Interview
+- Send a [thank you email](https://www.indeed.com/career-advice/interviewing/sample-thank-you-letter-after-interview) after the interview
+- Try to list your weaknesses on the interview and have the plan to improve yourself 
+## 9- Interview Improvement process
 <p align="center"><img src="files/continuous_improvement_process.png" /></p>
 We always need to improve ourselves, simply try to find our weaknesses and make a list of them, then try to improve them. As an example:
 
@@ -186,7 +191,7 @@ You can use online tools or just ask other people:
 - Google this "free MBTI test" if you are not an English native speaker it's better to use your mother language tools. 
 - Use blogs like [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
 
-This is the process, and don't forget the compound effect is still their ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
+This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
 
 Good luck to you
 
