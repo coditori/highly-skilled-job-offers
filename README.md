@@ -54,11 +54,11 @@ A good Resume Should have a good structure here you can find some real samples:
 - [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
 
 ##### CV builders
-. [indeed.com](https://www.indeed.com/create-resume)
-. [resume.com](https://www.resume.com/resume/builder/)
-. [resumehelp.com](https://www.resumehelp.com/builder/how-it-works)
-. [cvmkr.com](https://cvmkr.com/CV/new#0)
-. [resumegenius.com](https://resumegenius.com/)
+- [indeed.com](https://www.indeed.com/create-resume)
+- [resume.com](https://www.resume.com/resume/builder/)
+- [resumehelp.com](https://www.resumehelp.com/builder/how-it-works)
+- [cvmkr.com](https://cvmkr.com/CV/new#0)
+- [resumegenius.com](https://resumegenius.com/)
 
 #### 1-3 How to optimize my CV?
 Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
@@ -161,9 +161,9 @@ Find a colleague or friend and have a mock interview with her/him
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
 #### 7-0 General tips
-. Try to not speak fast (not so slowly also, but you should record your own voice and listen to that)
-. Use simple verbs and explain technical things as simply as possible
-. Listen carefully and if you did not get the question ask them to explain it
+- Try to not speak fast (not so slowly also, but you should record your own voice and listen to that)
+- Use simple verbs and explain technical things as simply as possible
+- Listen carefully and if you did not get the question ask them to explain it
 #### 7-1 Introduction call
 Try to have a structure when you introduce yourself (introduction can be around 5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
 - About yourself: Companies can see your professional life on your CV and here you can give a good overview of yourself! Start with your name/age and where are you living right now, why you moved to their country if you relocated before (why you like it), and your hobbies (2 mins)
