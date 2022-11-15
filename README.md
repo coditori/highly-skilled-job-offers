@@ -49,9 +49,16 @@ What is ATS compatible? An applicant tracking system (ATS) is a software applica
 A good Resume Should have a good structure here you can find some real samples:
 <p align="center"><img src="files/resume_careercup_markedup.gif" /></p>
 
-
+##### CV templates
 - [Microsoft Work template](https://www.careercup.com/resume)
 - [Latex format](https://github.com/posquit0/Awesome-CV) (I prefer latex)
+
+##### CV builders
+. [indeed.com](https://www.indeed.com/create-resume)
+. [resume.com](https://www.resume.com/resume/builder/)
+. [resumehelp.com](https://www.resumehelp.com/builder/how-it-works)
+. [cvmkr.com](https://cvmkr.com/CV/new#0)
+. [resumegenius.com](https://resumegenius.com/)
 
 #### 1-3 How to optimize my CV?
 Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
