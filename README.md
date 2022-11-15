@@ -153,6 +153,10 @@ You can find the full list with details in [uiowa](https://careers.uiowa.edu/car
 Find a colleague or friend and have a mock interview with her/him
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
+#### 7-0 General tips
+. Try to not speak fast (not so slowly also, but you should record your own voice and listen to that)
+. Use simple verbs and explain technical things as simply as possible
+. Listen carefully and if you did not get the question ask them to explain it
 #### 7-1 Introduction call
 Try to have a structure when you introduce yourself (introduction can be around 5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
 - About yourself: Companies can see your professional life on your CV and here you can give a good overview of yourself! Start with your name/age and where are you living right now, why you moved to their country if you relocated before (why you like it), and your hobbies (2 mins)
@@ -163,7 +167,9 @@ Try to have a structure when you introduce yourself (introduction can be around 
 Use the same structure as above to introduce yourself and remember these when they ask a question:
 - Don't jump into solving problem
 - Try to understand what the question is
-- Go ahead and ask equations about Scale (how many users?), Performance (transactions per second), API
+- Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If we design Tiktok then Upload Size, Video text, Feed videos (followers + recommended), favorite videos, follow users
+- Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
+- Technical questions: Why SQL? How you managed state? troubleshooting, ...
 - Have a conversation between you and the interviewer (like when you do it with a team)
 ##### 7-2-1 Preparation
 - [Exponent channel (on youtube)](https://www.youtube.com/c/ExponentTV/videos)
