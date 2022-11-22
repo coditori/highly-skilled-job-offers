@@ -175,7 +175,7 @@ Prepare a brief introduction about you, years of experience, and your latest pro
 - Don't jump into solving problem
 - Try to understand what the question is
 - If you did not use a specific technology or you don't know how to solve a challenge you need to show them you have some ideas in your head and you are willing to learn
-- Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If we design Tiktok then Upload Size, Video text, Feed videos (followers + recommended), favorite videos, follow users
+- Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If you want to design the Tiktok then ask about Uploading Size, Video caption, Feed videos (followers + recommender engine), favorite videos, following users
 - Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
 - Technical questions: Why SQL? How you managed state? troubleshooting, ...
 - Have a conversation between you and the interviewer (like when you do it with a team)
