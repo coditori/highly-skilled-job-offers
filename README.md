@@ -171,9 +171,10 @@ Try to have a structure when you introduce yourself (introduction can be around 
 - The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (30 seconds)
 - The latest project and technologies: Most important part in the interview is to try to mention your latest challenge (don't need to mention here how you solved the issue because it's probably a long story, so just mention the challenge later on they will ask about this challenge in details and you can give them more information) Eg: We are building a payment application with Java11 and we had a challenge to manage state over Microservices we also used  Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (1 min)
 #### 7-2 Technical interview
-Use the same structure as above to introduce yourself and remember these when they ask a question:
+Prepare a brief introduction about you, years of experience and latest project challenge (30 seconds) and remember these when they ask a question:
 - Don't jump into solving problem
 - Try to understand what the question is
+- If you did not use a specific technology or you don't know how to solve a challenge you need to show them you have some ideas in your head and you are willing to learn
 - Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If we design Tiktok then Upload Size, Video text, Feed videos (followers + recommended), favorite videos, follow users
 - Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
 - Technical questions: Why SQL? How you managed state? troubleshooting, ...
