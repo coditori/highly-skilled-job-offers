@@ -1,9 +1,9 @@
 # How to get a highly skilled job offer!?
-Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get your work permit & visa, but how? follow the below steps:
+Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get the work permit & visa, but how? follow the below steps:
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
 ## Contribution ♡
-If you found my repo helpful please give it a star 👍, and don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, if you have some comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
+If you found my repo helpful please give it a star 👍, and don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, for any comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
 0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
@@ -18,13 +18,13 @@ If you found my repo helpful please give it a star 👍, and don't just clone it
 9. [Interview Improvement process](#9--interview-improvement-process)
 
 ## The benefits of getting a job offer
-- You don't need any language certificate IELTS/TOEFL, but you at least need to have an intermediate or upper intermediate English level.
-- Usually, you don't need to be educated
-- The company will give you a relocation package (flight tickets, one month's rent, ...)
-- The company will help you to get a visa faster and they do all the paperwork for you
+- No language certificate is needed (IELTS/TOEFL), but at least need to have an intermediate or upper intermediate English level.
+- Usually, no need to be educated
+- The company offers a relocation package (flight tickets, one month's rent, ...)
+- The company helps you to get a visa faster
 
 ## 0- How to choose a country for living in?
-You can consider these items (which you can find more on google :)) You can give these items some weight and it depends on you.
+Consider these items (which you can find more on google :))
 #### General items
 - [Passport Index](https://www.passportindex.org/byRank.php) - Higher is better
 - [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) - Higher is better
@@ -35,12 +35,12 @@ You can consider these items (which you can find more on google :)) You can give
 - [Living Cost](https://www.numbeo.com)
 - The laws and cultural fit
 - Tax
-#### Specific items for your job
+#### Job-related items
 - Job market  (number of opening job applications)
 - Average Salary
 - Job Satisfaction
 
-You can see this [Glassdoor's top jobs](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) based on the above metrics.
+Find this [Glassdoor's top jobs](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) based on the above metrics.
 ## 1- CV/Resume:
 #### 1-1 Make a standard ATS-compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that reads your CV/Resume and gives human resources some results. In many cases, they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adopt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
@@ -61,11 +61,11 @@ A good Resume Should have a good structure here you can find some real samples:
 - [resumegenius.com](https://resumegenius.com/)
 
 #### 1-3 How to optimize my CV?
-Remember recruiters will only check your CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long page. You can use these tools to improve your CV:
+Remember recruiters will only check the CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long document. These tools can improve the CV:
 - [Resumeworded](https://resumeworded.com) (It's free)
 
 #### 1-4 Don't use a general CV for all Job Applications!
-Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills you have.
+Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills are mentioned in your resume.
 
 ## 2- How to find or apply for a relocation job?
 #### 2-1 Recruiter
@@ -161,23 +161,24 @@ Find a colleague or friend and have a mock interview with her/him
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
 #### 7-0 General tips
-- Try to not speak fast (not so slowly also, but you should record your own voice and listen to that)
-- Use simple verbs and explain technical things as simply as possible
+- Try to not speak fast (not so slowly also, but you should record your voice and listen to that)
+- Use simple verbs and explain technical things as simple as possible
 - Listen carefully and if you did not get the question ask them to explain it
 #### 7-1 Introduction call
 Try to have a structure when you introduce yourself (introduction can be around 5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
 - About yourself: Companies can see your professional life on your CV and here you can give a good overview of yourself! Start with your name/age and where are you living right now, why you moved to their country if you relocated before (why you like it), and your hobbies (2 mins)
 - The first and last companies: Eg: I started my first job at ... now working at ... for N number of years, Try to mention company size, Industry, B2B or B2C (30 seconds)
 - The team: Team size, Teamwork methodologies (Scrum, Kanban, ...), how you interact with POs (Project Owner), PMs (Product Manager) (30 seconds)
-- The latest project and technologies: Most important part in the interview is to try to mention your latest challenge (don't need to mention here how you solved the issue because it's probably a long story, so just mention the challenge later on they will ask about this challenge in details and you can give them more information) Eg: We are building a payment application with Java11 and we had a challenge to manage state over Microservices we also used  Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (1 min)
+- The latest project and technologies: Most important part of the interview is to try to mention your latest challenge (don't need to mention here how you solved the issue because it's probably a long story, so just mention the challenge later on they will ask about this challenge in details and you can give them more information) Eg: We are building a payment application with Java11 and we had a challenge to manage state over Microservices we also used  Spring boot, Automated CI/CD, Oauth, Microservices, and Kafka, ... (1 min)
 #### 7-2 Technical interview
 Prepare a brief introduction about you, years of experience, and your latest project challenge (30 seconds), and tell them you are learning a specific technology in your free time (that shows you want to be updated even in your free time) also remember these when they ask a question:
 - Don't jump into solving problem
+- Be specific and give them a short answer (just mention important things)
 - Try to understand what the question is
-- If you did not use a specific technology or you don't know how to solve a challenge you need to show them you have some ideas in your head and you are willing to learn
-- Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If you want to design the Tiktok then ask about Uploading Size, Video caption, Feed videos (followers + recommender engine), favorite videos, following users
+- Make sure you say "I don't know" when you did not know a specific technology or you don't know how to solve a challenge, but ask them if they would like to hear your naive solutions/ideas
+- Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If you want to design the Tiktok then ask about Uploading Size, Video caption, Feed videos (followers + recommender engine), favourite videos, following users
 - Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
-- Technical questions: Why SQL? How you managed state? troubleshooting, ...
+- Technical questions: Why SQL? How you managed the state? troubleshooting, ...
 - Have a conversation between you and the interviewer (like when you do it with a team)
 ##### 7-2-1 Preparation
 - [Exponent channel (on youtube)](https://www.youtube.com/c/ExponentTV/videos)
@@ -192,7 +193,7 @@ Prepare a brief introduction about you, years of experience, and your latest pro
 - Number of salaries in a year (12 or 13), Tax, holiday allowance
 ## 8- After the Interview
 - Send a [thank you email](https://www.indeed.com/career-advice/interviewing/sample-thank-you-letter-after-interview) after the interview
-- Try to list your weaknesses on the interview and have the plan to improve yourself 
+- Try to list your weaknesses on the interview and have a plan to improve yourself 
 ## 9- Interview Improvement process
 <p align="center"><img src="files/continuous_improvement_process.png" /></p>
 We always need to improve ourselves, simply try to find our weaknesses and make a list of them, then try to improve them. As an example:
@@ -204,7 +205,7 @@ You can use online tools or just ask other people:
 - Google this "free MBTI test" if you are not an English native speaker it's better to use your mother language tools. 
 - Use blogs like [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
 
-This is the process, and don't forget the compound effect is still there ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
+This is the process, and don't forget the compound effect is still their ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
 
 Good luck to you
 
