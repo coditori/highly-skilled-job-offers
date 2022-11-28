@@ -68,13 +68,13 @@ Remember recruiters will only check the CV for less than a minute so it should f
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills are mentioned in your resume.
 
 ## 2- How to find or apply for a relocation job?
-#### 2-1 Recruiter
+#### 2-1 Through Recruiters
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to. You can also do these:
 - Change your Linkedin location to the country you wanna move
 - Enable open-to-work and select positions and countries
 
 You also check [How to Use LinkedIn to Get a Job](https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search) or [How to Use LinkedIn When You Are Looking For a Job](https://www.linkedin.com/pulse/how-use-linkedin-when-you-looking-job-part-1-your-profile-piedmont/)
-#### 2-2 Apply online through job platforms
+#### 2-2 Apply online on job platforms
 You can find Job Applications through Linkedin or other platforms or just go to the company career page and apply there.
 <table>
 <thead>
@@ -141,7 +141,10 @@ Hard skills are objective, quantifiable skills gained through training, school, 
 - Object-oriented design (OOD)
 - Software testing, debugging
 - Computer programming and coding
-
+##### 4-2-1 Improve Hard Skills (For programmers)
+- [Exponent channel (on youtube)](https://www.youtube.com/c/ExponentTV/videos)
+- [Coding Interview Preparation on youtube](https://www.youtube.com/results?search_query=coding+interview+preparation)
+- Solve problems on Leetcode, Codewars, Hackerrank
 ## 5- Things to Remember before an Interview
 1. Dressing the Part
 2. Review the Questions The Interviewers Will Ask You
@@ -180,9 +183,6 @@ Prepare a brief introduction about you, years of experience, and your latest pro
 - Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
 - Technical questions: Why SQL? How you managed the state? troubleshooting, ...
 - Have a conversation between you and the interviewer (like when you do it with a team)
-##### 7-2-1 Preparation
-- [Exponent channel (on youtube)](https://www.youtube.com/c/ExponentTV/videos)
-- [Coding Interview Preparation on youtube](https://www.youtube.com/results?search_query=coding+interview+preparation)
 #### 7-3 Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
 - Ask them about the relocation package
