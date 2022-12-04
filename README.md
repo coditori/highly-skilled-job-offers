@@ -161,6 +161,46 @@ You can find the full list with details in [uiowa](https://careers.uiowa.edu/car
 
 ## 6- Mock Interview
 Find a colleague or friend and have a mock interview with her/him
+#### 6-0 Mock Interview websites
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th align="center">Free</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.pramp.com/">Pramp</a></td>
+<td align="center"><ul><li>- [x] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://interviewbuddy.in/">Interview Buddy</a></td>
+<td align="center"><ul><li>- [ ] </li></ul></td>
+</tr>
+<tr>
+<td><a href="http://www.gainlo.co">Gainlo</a></td>
+<td align="center"><ul><li>- [ ] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://www.interviewbit.com/">Interview Bit</a></td>
+<td align="center"><ul><li>- [X] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://interviewing.io/">Interviewing</a></td>
+<td align="center"><ul><li>- [X] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://www.techmockinterview.com/">Tech Mock Interview</a></td>
+<td align="center"><ul><li>- [ ] </li></ul></td>
+</tr>
+<tr>
+<td><a href="https://myinterviewpractice.com">My Interview Practice</a></td>
+<td align="center"><ul><li>- [X] </li></ul></td>
+</tr>
+</tbody>
+</table>
+
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
 #### 7-0 General tips
