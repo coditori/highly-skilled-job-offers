@@ -61,11 +61,20 @@ A good Resume Should have a good structure here you can find some real samples:
 - [resumegenius.com](https://resumegenius.com/)
 
 #### 1-3 How to optimize my CV?
-Remember recruiters will only check the CV for less than a minute so it should follow lots of factors like if you have less than 10 years of experience your CV should be a 1-page long document. These tools can improve the CV:
+Remember recruiters will only check the CV for less than a minute so it should follow lots of factors. These tools can improve the CV:
 - [Resumeworded](https://resumeworded.com) (It's free)
 
 #### 1-4 Don't use a general CV for all Job Applications!
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills are mentioned in your resume.
+
+#### 1-5 General suggestions
+- Try to use a simple 1 column CV template
+- If you have less than 10 years of experience your CV should be a 1-page long document
+- Have two cv/resume versions (short and long), and send the short to ATS systems
+- If experience + education parts can fill the whole page then remove below sections (based on priority): 
+  1. A summary is not needed
+  2. Skills section is not needed (instead put skills after each bullet point or at the end of each company experience)
+  3. Languages
 
 ## 2- How to find or apply for a relocation job?
 #### 2-1 Through Recruiters
