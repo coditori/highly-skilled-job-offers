@@ -241,16 +241,16 @@ Use the MoSCOW model and give them simple software that can work rather than som
 - Recheck with the company that you understand what is the requirement
 
 In coding follow these steps:
-0. Try to understand the business logic and problem
-1. Tests are mandatory (start with TDD and do not postpone it)
-2. Clean code
-3. Documentation
-4. Consider Edge cases (API can return 500 status codes? is it allowed to have 500?)
-5. Design patterns or separation of concepts are important
-6. Your REST API is standard? inputs are validated?
-7. Exception handling & fault recovery
-8. Logging
-9. If could deliver the task at the right time then talk about non-functional in the documentation part and give them suggestions like scale-out, cache, ...
+1. Try to understand the business logic and problem
+2. Tests are mandatory (start with TDD and do not postpone it)
+3. Clean code
+4. Documentation
+5. Consider Edge cases (API can return 500 status codes? is it allowed to have 500?)
+6. Design patterns or separation of concepts are important
+7. Your REST API is standard? inputs are validated?
+8. Exception handling & fault recovery
+9. Logging
+10. If could deliver the task at the right time then talk about non-functional in the documentation part and give them suggestions like scale-out, cache, ...
   
 #### 7-3 Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
