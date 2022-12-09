@@ -231,7 +231,26 @@ Prepare a brief introduction about you, years of experience, and your latest pro
 - Go ahead and ask about the functional part of the system (or the interviewer may ask this): How the system works, Eg: If you want to design the Tiktok then ask about Uploading Size, Video caption, Feed videos (followers + recommender engine), favourite videos, following users
 - Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
 - Technical questions: Why SQL? How you managed the state? troubleshooting, ...
-- Have a conversation between you and the interviewer (like when you do it with a team)
+- Have a conversation between you and the interviewer (like when you do it with a team
+##### 7-2-0 Technical Assignment
+Use the MoSCOW model and give them simple software that can work rather than something complex and buggy!
+<p align="center"><img src="files/moscow_model_problem_solving.png" /></p>
+- Before coding estimate your coding time
+- Only focus on the "Must Have" section not other parts
+- Recheck with the company that you understand what is the requirement
+
+In coding follow these steps:
+0. Try to understand the business logic and problem
+1. Tests are mandatory (start with TDD and do not postpone it)
+2. Clean code
+3. Documentation
+4. Consider Edge cases (API can return 500 status codes? is it allowed to have 500?)
+5. Design patterns or separation of concepts are important
+6. Your REST API is standard? inputs are validated?
+7. Exception handling & fault recovery
+8. Logging
+9. If could deliver the task at the right time then talk about non-functional in the documentation part and give them suggestions like scale-out, cache, ...
+  
 #### 7-3 Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
 - Ask them about the relocation package
