@@ -235,6 +235,7 @@ Prepare a brief introduction about you, years of experience, and your latest pro
 ##### 7-2-0 Technical Assignment
 Use the MoSCOW model and give them simple software that can work rather than something complex and buggy!
 <p align="center"><img src="files/moscow_model_problem_solving.png" /></p>
+
 - Before coding estimate your coding time
 - Only focus on the "Must Have" section not other parts
 - Recheck with the company that you understand what is the requirement
