@@ -83,7 +83,7 @@ Make some connections (in Linkedin or other platforms) with recruiters in the co
 - Enable open-to-work and select positions and countries
 - Whenever they message you send them a snippet that shows you need visa sponsorship or not and your years of experience, and how they can talk with you.
 - Connect with these people on Linkedin "Recruiters/Human Resource Experts/Talent Acquisitions"
-- Ask recruiters where is their base location, if they are living in another location where you wanna move they will waste your time. They only connect to you to put your data in their database, they usually have no client (be aware!)
+- Ask recruiters where is their base location, if they are living in another location where you wanna move they will waste your time (They only connect to you to put your data in their database, they usually have no client. Be aware!)
 
 You also check [How to Use LinkedIn to Get a Job](https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search) or [How to Use LinkedIn When You Are Looking For a Job](https://www.linkedin.com/pulse/how-use-linkedin-when-you-looking-job-part-1-your-profile-piedmont/)
 #### 2-2 Apply online on job platforms
