@@ -81,6 +81,9 @@ Try to match your skills with the job's required skills, to do so you can use a 
 Make some connections (in Linkedin or other platforms) with recruiters in the country you wanna move to. You can also do these:
 - Change your Linkedin location to the country you wanna move
 - Enable open-to-work and select positions and countries
+- Whenever they message you send them a snippet that shows you need visa sponsorship or not and your years of experience, and how they can talk with you.
+- Connect with these people on Linkedin "Recruiters/Human Resource Experts/Talent Acquisitions"
+- Ask recruiters where is their base location, if they are living in another location where you wanna move they will waste your time. They only connect to you to put your data in their database, they usually have no client (be aware!)
 
 You also check [How to Use LinkedIn to Get a Job](https://www.topresume.com/career-advice/14-ways-to-leverage-your-linkedin-profile-during-your-job-search) or [How to Use LinkedIn When You Are Looking For a Job](https://www.linkedin.com/pulse/how-use-linkedin-when-you-looking-job-part-1-your-profile-piedmont/)
 #### 2-2 Apply online on job platforms
@@ -212,10 +215,13 @@ Find a colleague or friend and have a mock interview with her/him
 
 ## 7- The Interview itself
 Companies have different structures some will start with a personal human resource interview and some will drop you an online assignment first, but there are usually three main parts:
+
 #### 7-0 General tips
 - Try to not speak fast (not so slowly also, but you should record your voice and listen to that)
 - Use simple verbs and explain technical things as simple as possible
 - Listen carefully and if you did not get the question ask them to explain it
+- [How to Appropriately Use Humor in Interviews?](https://www.topresume.com/career-advice/how-to-appropriately-use-humor-in-an-interview) Say a funny reason thing in the Interview, but not too far! not a joke. Eg: I moved to the Netherlands because rain is fancy in my country :)
+
 #### 7-1 Introduction call
 Try to have a structure when you introduce yourself (introduction can be around 5 mins), I will suggest this structure but you are free to use it or not (this is based on my experience):
 - About yourself: Companies can see your professional life on your CV and here you can give a good overview of yourself! Start with your name/age and where are you living right now, why you moved to their country if you relocated before (why you like it), and your hobbies (2 mins)
