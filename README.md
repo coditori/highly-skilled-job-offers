@@ -1,4 +1,4 @@
-# How to get a highly skilled job offer!?
+# How to get a Job/Relocation offer!?
 Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get the work permit & visa, but how? follow the below steps:
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
