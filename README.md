@@ -238,7 +238,7 @@ Prepare a brief introduction about you, years of experience, and your latest pro
 - Non-functional part of the system: Scale (how many users?), Performance (transactions per second), API, Latency, Availability
 - Technical questions: Why SQL? How you managed the state? troubleshooting, ...
 - Have a conversation between you and the interviewer (like when you do it with a team
-##### 7-2-0 Technical Assignment
+##### 7-2-1 Technical Assignment
 Use the MoSCOW model and give them simple software that can work rather than something complex and buggy!
 <p align="center"><img src="files/moscow_model_problem_solving.png" /></p>
 
@@ -257,7 +257,22 @@ In coding follow these steps:
 8. Exception handling & fault recovery
 9. Logging
 10. If could deliver the task at the right time then talk about non-functional in the documentation part and give them suggestions like scale-out, cache, ...
-  
+##### 7-2-2 Technical Interview (without coding)
+What they usually ask in technical interviews (Software engineers sample) depends on your experience, job requirements and your introduction:
+1. Programming Language (E.g: new features in the latest version of Java)
+2. Data Structures and their complexities (which one has a faster lookup? LinkedinList or ArrayList?)
+3. Your framework (E.g: how Spring Boot handles injection?)
+3. Microservices and their challenges (how you handle transactions in Microservices)
+4. Restful API (difference between the POST and GET HTTP methods)
+5. Security, oAuth, JWT, OWASP (super crucial for Banks, )
+6. TDD & Clean Code
+7. Deployment, AWS, Docker, 12-factor apps, ...
+7. Troubleshooting & Monitoring
+8. Profiling and stress tests
+9. Documentation
+
+##### 7-2-2 Online Pair Programming
+
 #### 7-3 Final talk over contract and bonuses (relocation package and ...)
 - How much you should pay as normal rent (the most important issue after getting a visa is finding a house and how they can help you in this process)
 - Ask them about the relocation package
