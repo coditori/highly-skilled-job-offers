@@ -67,7 +67,13 @@ Remember recruiters will only check the CV for less than a minute so it should f
 #### 1-4 Don't use a general CV for all Job Applications!
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills are mentioned in your resume.
 
-#### 1-5 General suggestions
+#### 1-5 I'm not a native English speaker
+- Try to use free grammar checker like [Grammarly](https://www.grammarly.com)
+- Take a look at other successful people's CV (check their Linkedin of asking them to share their CVs)
+- Ask an expert to write a CV for you
+- Ask a human resource expert or a friend who got the job offer to review your CV
+
+#### 1-6 General suggestions (I applied for many applications and could not get any interviews!)
 - Try to use a simple 1 column CV template
 - If you have less than 10 years of experience your CV should be a 1-page long document
 - Have two cv/resume versions (short and long), and send the short to ATS systems
@@ -75,6 +81,7 @@ Try to match your skills with the job's required skills, to do so you can use a 
   1. A summary is not needed
   2. Skills section is not needed (instead put skills after each bullet point or at the end of each company experience)
   3. Languages
+- Be specific! do not explain a lot! 1-2 lines (s) for each bullet point is enough. Focus on the main thing you did and remember senior people will check your CV very fast.
 
 ## 2- How to find or apply for a relocation job?
 #### 2-1 Through Recruiters
