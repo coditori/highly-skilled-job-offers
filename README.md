@@ -69,7 +69,7 @@ Try to match your skills with the job's required skills, to do so you can use a 
 
 #### 1-5 I'm not a native English speaker
 - Try to use free grammar checker like [Grammarly](https://www.grammarly.com)
-- Take a look at other successful people's CV (check their Linkedin of asking them to share their CVs)
+- Take a look at other successful people's CV (check their Linkedin or asking them to share their CVs)
 - Ask an expert to write a CV for you
 - Ask a human resource expert or a friend who got the job offer to review your CV
 
