@@ -83,6 +83,8 @@ Try to match your skills with the job's required skills, to do so you can use a 
   3. Languages
 - Be specific! do not explain a lot! 1-2 lines (s) for each bullet point is enough. Focus on the main thing you did and remember senior people will check your CV very fast.
 - Don't put links with empty content like Github with no activity at all!
+- Enable your email application notification on your phone 
+- Try to find the first free time for a recruiter call and don't take it too long to answer (Try to answer them ASAP)
 
 ## 2- How to find or apply for a relocation job?
 #### 2-1 Through Recruiters
