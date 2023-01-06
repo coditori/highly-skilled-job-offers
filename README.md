@@ -16,6 +16,7 @@ If you found my repo helpful please give it a star 👍, and don't just clone it
 7. [The Interview](#7--the-interview-itself)
 8. [After the Interview](#8--after-the-interview)
 9. [Interview Improvement process](#9--interview-improvement-process)
+10. [After joined a company](#10--after-joined-a-company)
 
 ## The benefits of getting a job offer
 - No language certificate is needed (IELTS/TOEFL), but at least need to have an intermediate or upper intermediate English level.
@@ -306,6 +307,19 @@ You can use online tools or just ask other people:
 - Use blogs like [Wikihow: How to Identify Your Strengths and Weaknesses](https://www.wikihow.com/Identify-Your-Strengths-and-Weaknesses) or [bpalns: How to Identify Your Strengths and Weaknesses](https://articles.bplans.com/how-to-identify-your-strengths-and-weaknesses/)
 
 This is the process, and don't forget the compound effect is still their ^_^ After getting the feedback you may back to your CV or Mock Interview, no worries you just need to keep going.
+
+## 10- After joined a company
+Listen to the other people and try to gain information at least for 1 month (It can be different with companies). Check [Top 10 things that you must do when you join a new job](https://www.helloleads.io/blog/all/work-and-life/top-10-things-that-you-must-do-when-you-join-a-new-job/) in details:
+- Knowing about the organization
+- Prepare all your documents
+- Make to-do-list
+- Prepare about you
+- Understanding Policy
+- Knowing your industry
+- Understanding the work environment
+- Evaluate your strengths and skills
+- Understand the expectation of your new job goals
+- Feel ready-Enjoy yourself
 
 Good luck to you
 
