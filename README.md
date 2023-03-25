@@ -154,6 +154,7 @@ Conducting a skills gap analysis helps you identify the skills you need to devel
 
 ### 3.1. Job Market and Industry Prospects
 When selecting a country for employment, research the job market and industry prospects. Consider factors like job demand, growth opportunities, and industries thriving in that country. For example, if you're in the tech industry, countries like [the United States](https://www.bls.gov/ooh/computer-and-information-technology/home.htm), [Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html), and [Germany](https://www.make-it-in-germany.com/en/working-in-germany/professions-in-demand) may have more job openings.
+<p align="center"><img src="files/v2-job-market.jpg" alt="Job Market and Industry Prospects" width="540"></p>
 
 ### 3.2. Cost of Living and Salary Expectations
 Assess the cost of living and salary expectations in each potential country. Websites like [Numbeo](https://www.numbeo.com/cost-of-living/) and [Expatistan](https://www.expatistan.com/cost-of-living) offer cost of living comparisons, while [Payscale](https://www.payscale.com/) and [Glassdoor](https://www.glassdoor.com/index.htm) provide salary data. Choose a location that offers a reasonable balance between living expenses and potential earnings.
