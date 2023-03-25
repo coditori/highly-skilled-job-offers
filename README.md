@@ -125,3 +125,25 @@ In this sub-section, the author identifies the target audience for the book. Thi
 - People looking for a change in their careers and open to exploring international job opportunities
 - Expatriates seeking new job opportunities or career advancement
 
+## 2. Self-assessment and goal setting
+### 2.1. Identifying your strengths and weaknesses
+Before embarking on your journey to work abroad, it's essential to assess your strengths and weaknesses. This process allows you to recognize areas where you excel and areas that need improvement.
+
+- Make a list of your technical and soft skills.
+- Ask for feedback from colleagues, friends, and family.
+- Reflect on past projects and identify areas of success and challenges.
+
+### 2.2. Setting clear career goals
+Setting clear career goals helps you stay focused and motivated. Consider what you want to achieve in your professional life and how working abroad will contribute to these goals.
+
+- Set short-term and long-term goals.
+- Ensure goals are specific, measurable, achievable, relevant, and time-bound (SMART).
+- Regularly review and adjust your goals as needed.
+
+### 2.3. Skills gap analysis
+Conducting a skills gap analysis helps you identify the skills you need to develop to reach your career goals. Compare your current skills with those required for the job you desire.
+
+- Research job postings and identify common skills required.
+- Compare these skills with your current skill set.
+- Create an action plan to develop the necessary skills, such as taking courses or gaining relevant experience.
+
