@@ -139,6 +139,7 @@ Setting clear career goals helps you stay focused and motivated. Consider what y
 - Set short-term and long-term goals.
 - Ensure goals are specific, measurable, achievable, relevant, and time-bound (SMART).
 - Regularly review and adjust your goals as needed.
+<p align="center"><img src="files/v2-career-goals.jpg" alt="Setting clear career goals" width="540"></p>
 
 ### 2.3. Skills gap analysis
 Conducting a skills gap analysis helps you identify the skills you need to develop to reach your career goals. Compare your current skills with those required for the job you desire.
