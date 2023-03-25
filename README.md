@@ -1,4 +1,5 @@
 # Simple Steps to Working Abroad: A Practical Guide for Job Seekers
+<p align="center"><img src="files/v2-cover.jpg" /></p>
 
 1. [Introduction](#introduction)<br>
    1.1. [Personal journey](#personal-journey)<br>
@@ -123,6 +124,7 @@ In this book, we aim to provide a comprehensive guide for individuals seeking to
 My journey into working abroad began with a job at ING Bank in the Netherlands. With a decade of experience in software engineering, I was eager to explore new opportunities in a different country. I started coding in 2005, and the Netherlands offered a unique environment to grow both professionally and personally.
 
 Upon arrival, I had to adapt to cultural differences, new communication styles, and the Dutch language. However, the experience was incredibly rewarding. I realized that success abroad isn't just about experience and I believe that even someone with less experience can achieve similar success if they are equipped with the right knowledge, strategies, and determination. This realization inspired me to write this book, sharing my journey and helping others achieve their dreams of working abroad.
+<p align="center"><img src="files/v2-my-journey.jpg" /></p>
 
 ### 1.2. Purpose of the book
 TThe purpose of this book is to provide a practical guide for job seekers who are looking to work abroad. We cover all aspects of the process, from choosing a country and researching job opportunities to preparing for interviews and settling into a new environment. By following the steps outlined in this book, you can increase your chances of finding a job and successfully relocating to a foreign country.
