@@ -117,34 +117,19 @@
     17.5. [Recommended resources and tools](#recommended-resources-and-tools)<br>
 
 ## Introduction
-
-This part provides an overview of the book and its purpose, as well as introduces the target audience. The author shares their personal journey of working abroad and the challenges they faced, as well as the lessons they learned along the way. The introduction lays the foundation for the rest of the book, emphasizing the importance of self-assessment, goal setting, and thorough research when seeking employment abroad.
-
-- Overview of the book and its purpose
-- Personal journey of working abroad
-- Importance of self-assessment, goal setting, and research
+In this book, we aim to provide a comprehensive guide for individuals seeking to work abroad. The process of finding a job in a foreign country can be daunting, but with the right knowledge, resources, and strategies, you can successfully navigate the journey.
 
 ### 1.1. Personal journey
+My journey into working abroad began with a job at ING Bank in the Netherlands. With a decade of experience in software engineering, I was eager to explore new opportunities in a different country. I started coding in 2005, and the Netherlands offered a unique environment to grow both professionally and personally.
 
-In this sub-section, the author shares their own personal experience of working abroad, including their motivation for doing so, the challenges they faced, and the benefits they gained from the experience. The author may also share specific examples and anecdotes to help illustrate their points. This section serves to inspire readers and encourage them to reflect on their own reasons for wanting to work abroad.
-
-- Author's own personal experience working abroad
-- Motivation for working abroad
-- Challenges and benefits of working abroad
+Upon arrival, I had to adapt to cultural differences, new communication styles, and the Dutch language. However, the experience was incredibly rewarding. I realized that success abroad isn't just about experience and I believe that even someone with less experience can achieve similar success if they are equipped with the right knowledge, strategies, and determination. This realization inspired me to write this book, sharing my journey and helping others achieve their dreams of working abroad.
 
 ### 1.2. Purpose of the book
-
-This sub-section explains the purpose of the book and what readers can expect to gain from it. The author may discuss the specific topics covered in the book, such as self-assessment, job search strategies, interview preparation, and relocation. The author may also discuss their intended audience and the benefits of working abroad. This section serves to set expectations and prepare readers for what they can expect to learn from the book.
-
-- Explanation of the purpose of the book
-- Overview of topics covered in the book
-- Discussion of intended audience and benefits of working abroad
+TThe purpose of this book is to provide a practical guide for job seekers who are looking to work abroad. We cover all aspects of the process, from choosing a country and researching job opportunities to preparing for interviews and settling into a new environment. By following the steps outlined in this book, you can increase your chances of finding a job and successfully relocating to a foreign country.
 
 ### 1.3. Target Audience
-
 In this sub-section, the author identifies the target audience for the book. This may include professionals and skilled workers who are seeking job opportunities in other countries, recent graduates who are considering starting their careers abroad, individuals who are interested in experiencing different cultures and work environments, people looking for a change in their careers and open to exploring international job opportunities, and expatriates who are already working abroad but are seeking new job opportunities or career advancement in their current location or another country. The author may also discuss the importance of readers having a sense of adventure, flexibility, and openness to new experiences. This section serves to ensure that the book is relevant and useful to its intended audience.
 
-- Identification of target audience for the book
 - Professionals and skilled workers seeking job opportunities abroad
 - Recent graduates considering starting their careers abroad
 - Individuals interested in different cultures and work environments
