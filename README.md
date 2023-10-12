@@ -3,7 +3,7 @@ Here I share some tips about CV/Resume and Interviews to get a job offer easily.
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
 ## Contribution ♡
-If you found my repo helpful please give it a star 👍, and don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, for any comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) or some improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
+If you found my repo helpful please give it a star 👍, and don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, for any comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) and any improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
 ## Table of content (click to open):
 0. [How to choose a country for living in?](#0--how-to-choose-a-country-for-living-in)
