@@ -25,23 +25,32 @@ If you found my repo helpful please give it a star 👍, and don't just clone it
 - The company helps you to get a visa faster
 
 ## 0- How to choose a country for living in?
-Consider these items (which you can find more on google :))
+Choosing the right country to live in involves considering various factors that impact your quality of life and future prospects. From economic stability and healthcare quality to cultural experiences and educational opportunities, each aspect plays a crucial role in ensuring a fulfilling expatriate life.
+
 #### General items
-- [Passport Index](https://www.passportindex.org/byRank.php) - Higher is better
-- [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) - Higher is better
-- [English Proficiency Index](https://worldpopulationreview.com/country-rankings/english-proficiency-by-country) - Higher is better
-- [GDP Per Capita Index](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country) - Higher is better
-- [Economy Index](https://www.heritage.org/index/ranking) - Higher is better
-- [Racial Discrimination Index](https://www.indexmundi.com/surveys/results/8) - Lower is better
-- [Living Cost](https://www.numbeo.com)
-- The laws and cultural fit
-- Tax
+1. **Quality of Life Index** - A comprehensive measure of overall well-being, including health, education, income, and environmental quality.
+2. **Healthcare Index** - Essential for assessing the quality and accessibility of healthcare services.
+3. **Safety and Crime Index** - Evaluates safety, considering crime rates and law enforcement effectiveness.
+4. **Economy Index** - Reflects the health and stability of a country's economy. [Economy Index](https://www.heritage.org/index/ranking)
+5. **Mercer CFA Institute Global Pension Index 2023** - Evaluates pension systems on adequacy, sustainability, and integrity. [Mercer CFA Institute Global Pension Index 2023](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index)
+6. **GDP Per Capita Index** - Indicates living standards and economic stability. [GDP Per Capita Index](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country)
+7. **Happiness Index** - Indicates the general well-being and happiness of the population. [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world)
+8. **Education Index** - Significance of the quality and accessibility of education.
+9. **Environmental Performance Index** - Important for sustainability and environmental health.
+10. **English Proficiency Index** - Essential for communication in non-native English-speaking countries. [English Proficiency Index](https://worldpopulationreview.com/country-rankings/english-proficiency-by-country)
+11. **Racial Discrimination Index** - Indicates inclusivity and social harmony. [Racial Discrimination Index](https://www.indexmundi.com/surveys/results/8)
+12. **Political Stability and Absence of Violence/Terrorism Index** - Reflects political stability and safety.
+13. **Passport Index** - Important for international travel freedom. [Passport Index](https://www.passportindex.org/byRank.php)
+14. **Living Cost** - Helps in financial planning and determining affordability. [Living Cost](https://www.numbeo.com/cost-of-living/)
+15. **Tax** - Crucial for understanding financial obligations.
+
 #### Job-related items
 - Job market  (number of opening job applications)
 - Average Salary
 - Job Satisfaction
 
 Find this [Glassdoor's top jobs](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) based on the above metrics.
+
 ## 1- CV/Resume:
 #### 1-1 Make a standard ATS-compatible CV
 What is ATS compatible? An applicant tracking system (ATS) is a software application that reads your CV/Resume and gives human resources some results. In many cases, they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended. This has caused many to adopt resume optimization techniques similar to those used in search engine optimization when creating and formatting their résumé.
