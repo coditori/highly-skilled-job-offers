@@ -25,17 +25,20 @@ If you found my repo helpful please give it a star 👍, and don't just clone it
 - The company helps you to get a visa faster
 
 ## 0- How to choose a country for living in?
-Consider these items (which you can find more on google :))
+Choosing the right country to live in involves considering various factors that impact your quality of life and future prospects. From economic stability and healthcare quality to cultural experiences and educational opportunities, each aspect plays a crucial role in ensuring a fulfilling expatriate life.
+
 #### General items
-- [Passport Index](https://www.passportindex.org/byRank.php) - Higher is better
-- [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) - Higher is better
-- [English Proficiency Index](https://worldpopulationreview.com/country-rankings/english-proficiency-by-country) - Higher is better
-- [GDP Per Capita Index](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country) - Higher is better
-- [Economy Index](https://www.heritage.org/index/ranking) - Higher is better
-- [Racial Discrimination Index](https://www.indexmundi.com/surveys/results/8) - Lower is better
-- [Living Cost](https://www.numbeo.com)
-- The laws and cultural fit
-- Tax
+1. [Mercer CFA Institute Global Pension Index 2023](https://www.mercer.com/our-thinking/wealth/mercer-cfa-institute-global-pension-index.html) - Evaluates the pension system of a country based on adequacy, sustainability, and integrity.
+2. [Happiness Index](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) - Higher is better.
+3. [GDP Per Capita Index](https://worldpopulationreview.com/country-rankings/gdp-per-capita-by-country) - Higher is better.
+4. [Economy Index](https://www.heritage.org/index/ranking) - Higher is better.
+5. [English Proficiency Index](https://worldpopulationreview.com/country-rankings/english-proficiency-by-country) - Higher is better.
+6. [Racial Discrimination Index](https://www.indexmundi.com/surveys/results/8) - Lower is better.
+7. [Passport Index](https://www.passportindex.org/byRank.php) - Higher is better.
+8. [Living Cost](https://www.numbeo.com/cost-of-living/) - Provides comprehensive data on the cost of living.
+9. Tax - Country-specific tax resources are required for detailed information.
+10. The laws and cultural fit - Requires personal research based on individual preferences.
+
 #### Job-related items
 - Job market  (number of opening job applications)
 - Average Salary
