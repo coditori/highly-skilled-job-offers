@@ -2,6 +2,8 @@
 Here I share some tips about CV/Resume and Interviews to get a job offer easily. Simply you just need a contract with a company to get the work permit & visa, but how? follow the below steps:
 <p align="center"><img src="files/job_offer.jpg" /></p>
 
+These practices may or may not work for your situation, so please keep that in mind.
+
 ## Contribution ♡
 If you found my repo helpful please give it a star 👍, and don't just clone it 🤗, as it motivates me to update such kinds of info and help the community, for any comments (please share that on [Discussions](https://github.com/coditori/highly-skilled-job-offers/discussions) section) and any improvements please feel free to send a pull request. It would be perfect to translate this repo into multiple languages ^_^
 
