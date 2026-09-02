@@ -79,6 +79,8 @@ Remember recruiters will only check the CV for less than a minute so it should f
 #### 1-4 Don't use a general CV for all Job Applications!
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills are mentioned in your resume.
 
+You can also run a free ATS check with [ResumeAI](https://withresumeai.com/) (withresumeai.com). It ships an open State of ATS 2026 dataset (738 large employers, 704 portal-verified).
+
 #### 1-5 I'm not a native English speaker
 - Try to use free grammar checker like [Grammarly](https://www.grammarly.com)
 - Take a look at other successful people's CV (check their Linkedin or asking them to share their CVs)
