@@ -70,11 +70,12 @@ A good Resume Should have a good structure here you can find some real samples:
 - [resume.com](https://www.resume.com/resume/builder/)
 - [resumehelp.com](https://www.resumehelp.com/builder/how-it-works)
 - [cvmkr.com](https://cvmkr.com/CV/new#0)
+- [writecv.ai](https://writecv.ai/ats-resume-checker)
 - [resumegenius.com](https://resumegenius.com/)
 
 #### 1-3 How to optimize my CV?
 Remember recruiters will only check the CV for less than a minute so it should follow lots of factors. These tools can improve the CV:
-- [Resumeworded](https://resumeworded.com) (It's free)
+- [Resumeworded](https://resumeworded.com) or [writecv.ai](https://writecv.ai/ats-resume-checker) (It's free)
 
 #### 1-4 Don't use a general CV for all Job Applications!
 Try to match your skills with the job's required skills, to do so you can use a [Job Match tool](https://www.jobscan.co/) to see how many similar skills are mentioned in your resume.
