@@ -131,6 +131,11 @@ You can find Job Applications through Linkedin or other platforms or just go to 
 <td align="center"><ul><li>- [x] </li></ul></td>
 </tr>
 <tr>
+<td><a href="https://aiexpatjobs.com/">aiexpatjobs.com</a> (AI, ML and data roles)</td>
+<td align="center">UK, Netherlands</td>
+<td align="center"><ul><li>- [x] </li></ul></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/">Linkedin</a></td>
 <td align="center">Multiple countries</td>
 <td align="center"><ul><li>- [ ] </li></ul></td>
